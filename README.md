@@ -325,8 +325,8 @@ O ESP32 iniciará:
 
 ## 📷 Demonstração
 
-![Sheets](./assets/sheets.png)
-![Wokwi](./assets/wokwi.png)
+![Sheets](./AutoResidencial/assets/sheets.png)
+![Wokwi](./AutoResidencial/assets/sheets.png)
 
 ---
 
